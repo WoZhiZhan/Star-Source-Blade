@@ -1,0 +1,42 @@
+{
+  "group": "starsource",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_sword"
+    },
+    "1": {
+      "item": "starsource:star_source_inght"
+    },
+    "2": {
+      "item": "minecraft:diamond_sword"
+    },
+    "3": {
+      "item": "starsource:star_source_inght"
+    },
+    "4": {
+      "item": "starsource:star_source_inght"
+    },
+    "5": {
+      "item": "starsource:star_source_inght"
+    },
+    "6": {
+      "item": "minecraft:diamond_sword"
+    },
+    "7": {
+      "item": "starsource:star_source_inght"
+    },
+    "8": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "starsource:star",
+    "count": 1
+  }
+}

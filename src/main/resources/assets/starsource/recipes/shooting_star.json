@@ -1,0 +1,42 @@
+{
+  "group": "starsource",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lava_bucket"
+    },
+    "1": {
+      "item": "minecraft:lava_bucket"
+    },
+    "2": {
+      "item": "minecraft:lava_bucket"
+    },
+    "3": {
+      "item": "minecraft:lava_bucket"
+    },
+    "4": {
+      "item": "starsource:star_burst"
+    },
+    "5": {
+      "item": "minecraft:lava_bucket"
+    },
+    "6": {
+      "item": "minecraft:lava_bucket"
+    },
+    "7": {
+      "item": "minecraft:lava_bucket"
+    },
+    "8": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "starsource:shooting_star",
+    "count": 1
+  }
+}

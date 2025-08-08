@@ -1,0 +1,31 @@
+{
+  "group": "starsource",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "starsource:rastar_group"
+    },
+    {
+      "item": "starsource:astral_shadow"
+    },
+    {
+      "item": "starsource:star"
+    },
+    {
+      "item": "starsource:shooting_star"
+    },
+    {
+      "item": "starsource:dying_fire"
+    },
+    {
+      "item": "starsource:super_astral_shadow"
+    },
+    {
+      "item": "starsource:star_burst"
+    }
+  ],
+  "result": {
+    "item": "starsource:star_dragon",
+    "count": 1
+  }
+}

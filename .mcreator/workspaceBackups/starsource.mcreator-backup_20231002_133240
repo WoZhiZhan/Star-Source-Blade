@@ -1,0 +1,72 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "StarSourceInght",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_source_inght"
+    },
+    {
+      "name": "StarSource",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_source"
+    },
+    {
+      "name": "BlessingStars",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blessing_stars"
+    },
+    {
+      "name": "Blessing",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blessing"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabstar_source": "Star Source Tab",
+      "item.blessing_stars.name": "Blessing Stars",
+      "item.star_source_inght.name": "Star Source Inght"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "starsource",
+    "modName": "StarSource",
+    "version": "1.0.0",
+    "author": "Administrator, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.wzz.starsource",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "010",
+    "111",
+    "010"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_sword"
+    },
+    "1": {
+      "item": "starsource:star_source_ingot"
+    }
+  },
+  "result": {
+    "item": "starsource:star_source_blade"
+  }
+}

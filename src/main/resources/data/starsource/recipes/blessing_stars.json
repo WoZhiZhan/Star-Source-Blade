@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "020",
+    "010",
+    "020"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "2": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "starsource:blessing_stars"
+  }
+}

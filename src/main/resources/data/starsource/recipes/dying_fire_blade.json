@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "212",
+    "222"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone_block"
+    },
+    "1": {
+      "item": "starsource:spark_blade"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "starsource:dying_fire_blade"
+  }
+}

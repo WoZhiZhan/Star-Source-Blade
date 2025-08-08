@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ice"
+    },
+    "1": {
+      "item": "starsource:ultimately_astral_shadow_blade"
+    }
+  },
+  "result": {
+    "item": "starsource:frost_moon_blade"
+  }
+}

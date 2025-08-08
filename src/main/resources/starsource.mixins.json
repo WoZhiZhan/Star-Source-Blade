@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.wzz.starsource.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "starsource.refmap.json",
+  "mixins": [
+    "ShapedRecipeMixin",
+    "ShapelessRecipeMixin"
+  ],
+  "client": [
+    "ModelBakeryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

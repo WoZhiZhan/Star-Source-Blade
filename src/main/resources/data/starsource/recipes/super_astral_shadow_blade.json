@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "200",
+    "010",
+    "003"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_sword"
+    },
+    "1": {
+      "item": "starsource:astral_shadow_blade"
+    },
+    "2": {
+      "item": "minecraft:netherite_block"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "starsource:super_astral_shadow_blade"
+  }
+}

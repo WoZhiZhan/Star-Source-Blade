@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "starsource:astral_shadow_blade" },
+    { "item": "starsource:spark_blade" },
+    { "item": "starsource:star_burst_blade" },
+    { "item": "starsource:dying_fire_blade" },
+    { "item": "starsource:super_astral_shadow_blade" },
+    { "item": "starsource:star_source_blade" },
+    { "item": "starsource:ultimate_astral_shadow_blade" },
+    { "item": "starsource:frost_moon_blade" },
+    { "item": "starsource:schrodinger_blade" }
+  ],
+  "result": {
+    "item": "starsource:star_dragon_blade"
+  }
+}

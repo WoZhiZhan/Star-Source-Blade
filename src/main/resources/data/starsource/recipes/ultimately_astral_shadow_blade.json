@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 0 ",
+    " 1 ",
+    " 0 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_sword"
+    },
+    "1": {
+      "item": "starsource:super_astral_shadow_blade"
+    }
+  },
+  "result": {
+    "item": "starsource:ultimately_astral_shadow_blade"
+  }
+}

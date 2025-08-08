@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "010",
+    "222"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_sword"
+    },
+    "1": {
+      "item": "starsource:astral_shadow_blade"
+    },
+    "2": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "starsource:star_burst_blade"
+  }
+}

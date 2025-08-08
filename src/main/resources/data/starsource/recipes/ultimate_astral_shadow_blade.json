@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 0 ",
+    "010",
+    " 0 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_sword"
+    },
+    "1": {
+      "item": "starsource:super_astral_shadow_blade"
+    }
+  },
+  "result": {
+    "item": "starsource:ultimate_astral_shadow_blade"
+  }
+}
